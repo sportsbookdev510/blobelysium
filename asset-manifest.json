@@ -1,0 +1,353 @@
+[
+  {
+    "source": "/blob.png",
+    "asset": "assets/blob.png",
+    "size": [
+      740,
+      960
+    ],
+    "bytes": 737268
+  },
+  {
+    "source": "/blob-closed.png",
+    "asset": "assets/blob-closed.png",
+    "size": [
+      740,
+      960
+    ],
+    "bytes": 736748
+  },
+  {
+    "source": "/sticker.png",
+    "asset": "assets/sticker.png",
+    "size": [
+      302,
+      400
+    ],
+    "bytes": 134502
+  },
+  {
+    "source": "/elysium.png",
+    "asset": "assets/elysium.png",
+    "size": [
+      192,
+      192
+    ],
+    "bytes": 71531
+  },
+  {
+    "source": "/icon.png",
+    "asset": "assets/icon.webp",
+    "size": [
+      96,
+      96
+    ],
+    "bytes": 2958
+  },
+  {
+    "source": "/emojis/airports.png",
+    "asset": "assets/emojis/airports.png",
+    "size": [
+      86,
+      168
+    ],
+    "bytes": 24921
+  },
+  {
+    "source": "/emojis/hotels.png",
+    "asset": "assets/emojis/hotels.png",
+    "size": [
+      213,
+      168
+    ],
+    "bytes": 39780
+  },
+  {
+    "source": "/emojis/jet-lag.png",
+    "asset": "assets/emojis/jet-lag.png",
+    "size": [
+      298,
+      168
+    ],
+    "bytes": 56916
+  },
+  {
+    "source": "/emojis/rooftops.png",
+    "asset": "assets/emojis/rooftops.png",
+    "size": [
+      175,
+      168
+    ],
+    "bytes": 29530
+  },
+  {
+    "source": "/emojis/crypto-conferences.png",
+    "asset": "assets/emojis/crypto-conferences.png",
+    "size": [
+      127,
+      168
+    ],
+    "bytes": 31730
+  },
+  {
+    "source": "/emojis/board-meetings.png",
+    "asset": "assets/emojis/board-meetings.png",
+    "size": [
+      275,
+      168
+    ],
+    "bytes": 62318
+  },
+  {
+    "source": "/emojis/bull-markets.png",
+    "asset": "assets/emojis/bull-markets.png",
+    "size": [
+      184,
+      168
+    ],
+    "bytes": 44688
+  },
+  {
+    "source": "/emojis/payday.png",
+    "asset": "assets/emojis/payday.png",
+    "size": [
+      334,
+      168
+    ],
+    "bytes": 76042
+  },
+  {
+    "source": "/decor/blob-camera.png",
+    "asset": "assets/decor/blob-camera.png",
+    "size": [
+      466,
+      496
+    ],
+    "bytes": 240068
+  },
+  {
+    "source": "/decor/blob-money.png",
+    "asset": "assets/decor/blob-money.png",
+    "size": [
+      536,
+      502
+    ],
+    "bytes": 344966
+  },
+  {
+    "source": "/decor/blob-sleeping.png",
+    "asset": "assets/decor/blob-sleeping.png",
+    "size": [
+      576,
+      424
+    ],
+    "bytes": 231981
+  },
+  {
+    "source": "/world/blob-hug-head.webp",
+    "asset": "assets/world/blob-hug-head.webp",
+    "size": [
+      586,
+      312
+    ],
+    "bytes": 14108
+  },
+  {
+    "source": "/world/blob-hug-left.webp",
+    "asset": "assets/world/blob-hug-left.webp",
+    "size": [
+      607,
+      1118
+    ],
+    "bytes": 16580
+  },
+  {
+    "source": "/world/blob-hug-right.webp",
+    "asset": "assets/world/blob-hug-right.webp",
+    "size": [
+      607,
+      1118
+    ],
+    "bytes": 16226
+  },
+  {
+    "source": "/world/blob-peek.webp",
+    "asset": "assets/world/blob-peek.webp",
+    "size": [
+      369,
+      963
+    ],
+    "bytes": 25692
+  },
+  {
+    "source": "/album/01-garden-dome.jpg",
+    "asset": "assets/album/01-garden-dome.webp",
+    "size": [
+      720,
+      960
+    ],
+    "bytes": 84452
+  },
+  {
+    "source": "/album/02-fancy-dinner.jpg",
+    "asset": "assets/album/02-fancy-dinner.webp",
+    "size": [
+      720,
+      960
+    ],
+    "bytes": 45034
+  },
+  {
+    "source": "/album/03-conference-armchair.jpg",
+    "asset": "assets/album/03-conference-armchair.webp",
+    "size": [
+      761,
+      947
+    ],
+    "bytes": 97302
+  },
+  {
+    "source": "/album/04-hotel-bed.jpg",
+    "asset": "assets/album/04-hotel-bed.webp",
+    "size": [
+      960,
+      1280
+    ],
+    "bytes": 62156
+  },
+  {
+    "source": "/album/05-held-up-at-the-event.jpg",
+    "asset": "assets/album/05-held-up-at-the-event.webp",
+    "size": [
+      1200,
+      1600
+    ],
+    "bytes": 53712
+  },
+  {
+    "source": "/album/06-front-row-at-the-stage.jpg",
+    "asset": "assets/album/06-front-row-at-the-stage.webp",
+    "size": [
+      1200,
+      1600
+    ],
+    "bytes": 77818
+  },
+  {
+    "source": "/album/07-laptop-at-the-booth.jpg",
+    "asset": "assets/album/07-laptop-at-the-booth.webp",
+    "size": [
+      1063,
+      1200
+    ],
+    "bytes": 104986
+  },
+  {
+    "source": "/album/08-cocktail-bar.jpg",
+    "asset": "assets/album/08-cocktail-bar.webp",
+    "size": [
+      1200,
+      1600
+    ],
+    "bytes": 234620
+  },
+  {
+    "source": "/album/09-airplane-seat.jpg",
+    "asset": "assets/album/09-airplane-seat.webp",
+    "size": [
+      960,
+      1280
+    ],
+    "bytes": 106886
+  },
+  {
+    "source": "/blobify/machine-1000.webp",
+    "asset": "assets/blobify/machine-1000.webp",
+    "size": [
+      1000,
+      563
+    ],
+    "bytes": 56190
+  },
+  {
+    "source": "/blobify/machine.webp",
+    "asset": "assets/blobify/machine.webp",
+    "size": [
+      2000,
+      1126
+    ],
+    "bytes": 138016
+  },
+  {
+    "source": "/blobify/in/frog.webp",
+    "asset": "assets/blobify/in/frog.webp",
+    "size": [
+      230,
+      360
+    ],
+    "bytes": 24628
+  },
+  {
+    "source": "/blobify/in/doge.webp",
+    "asset": "assets/blobify/in/doge.webp",
+    "size": [
+      302,
+      360
+    ],
+    "bytes": 24722
+  },
+  {
+    "source": "/blobify/in/cat.webp",
+    "asset": "assets/blobify/in/cat.webp",
+    "size": [
+      349,
+      360
+    ],
+    "bytes": 24796
+  },
+  {
+    "source": "/blobify/out/frog.webp",
+    "asset": "assets/blobify/out/frog.webp",
+    "size": [
+      273,
+      360
+    ],
+    "bytes": 22130
+  },
+  {
+    "source": "/blobify/out/doge.webp",
+    "asset": "assets/blobify/out/doge.webp",
+    "size": [
+      314,
+      360
+    ],
+    "bytes": 26362
+  },
+  {
+    "source": "/blobify/out/cat.webp",
+    "asset": "assets/blobify/out/cat.webp",
+    "size": [
+      346,
+      360
+    ],
+    "bytes": 27142
+  },
+  {
+    "source": "/swap/assets/swap-night-landscape.webp",
+    "asset": "assets/swap/assets/swap-night-landscape.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bytes": 316410
+  },
+  {
+    "source": "/bridge/assets/bridge-gardens-landscape.webp",
+    "asset": "assets/bridge/assets/bridge-gardens-landscape.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "bytes": 435038
+  }
+]
