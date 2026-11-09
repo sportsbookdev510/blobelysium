@@ -8,13 +8,13 @@
     NAME: "Blob",
     TICKER: "BLOB",
     CHAIN: "elysium",
-    CA: "0xComingSoon",
+    CA: "0xa425daa2cc467378ab4368496f1d8027c69915f3",
     X: "https://x.com/BlobElysium_",
     TG: "",
-    BUY: "https://www.blobmeme.com/swap",
-    SWAP: "https://www.blobmeme.com/swap",
+    BUY: "https://elysiom.trade/t/0xa425daa2cc467378ab4368496f1d8027c69915f3",
+    SWAP: "https://elysiom.trade/t/0xa425daa2cc467378ab4368496f1d8027c69915f3",
     BRIDGE: "https://www.blobmeme.com/bridge",
-    CHART: "https://www.thekleos.pro/token/0xComingSoon",
+    CHART: "https://www.thekleos.pro/token/0xa425daa2cc467378ab4368496f1d8027c69915f3",
     BLOBIFY: "https://www.blobmeme.com/blobify",
   };
 
