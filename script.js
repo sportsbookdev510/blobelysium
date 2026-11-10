@@ -9,7 +9,8 @@
     TICKER: "BLOB",
     CHAIN: "elysium",
     CA: "0xa425daa2cc467378ab4368496f1d8027c69915f3",
-    X: "https://x.com/BlobElysium_",
+    X: "https://x.com/blobmascot
+",
     TG: "",
     BUY: "https://elysiom.trade/t/0xa425daa2cc467378ab4368496f1d8027c69915f3",
     SWAP: "https://elysiom.trade/t/0xa425daa2cc467378ab4368496f1d8027c69915f3",
